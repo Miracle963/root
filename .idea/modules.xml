@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/libsuperuser-master/libsuperuser/libsuperuser.iml" filepath="$PROJECT_DIR$/libsuperuser-master/libsuperuser/libsuperuser.iml" />
+      <module fileurl="file://$PROJECT_DIR$/libsuperuser-master/libsuperuser_example/libsuperuser_example.iml" filepath="$PROJECT_DIR$/libsuperuser-master/libsuperuser_example/libsuperuser_example.iml" />
+    </modules>
+  </component>
+</project>

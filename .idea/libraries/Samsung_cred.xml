@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Samsung_cred">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/android-vts-master/app/src/main/assets/Samsung_cred.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

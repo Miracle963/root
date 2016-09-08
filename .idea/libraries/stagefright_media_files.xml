@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="stagefright_media_files">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/android-vts-master/app/src/main/assets/stagefright/stagefright_media_files.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

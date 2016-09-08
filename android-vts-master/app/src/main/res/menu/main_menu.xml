@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+      xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/menu_export_results"
+        android:title="@string/export_results"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/menu_share_results"
+        android:title="@string/submit_results"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/menu_automatic_share_results"
+        android:title="@string/menu_share_results_automatically"
+        android:checkable="true"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/menu_check_updates"
+        android:title="@string/menu_check_for_updates"
+        app:showAsAction="never" />
+
+
+    <item
+        android:id="@+id/menu_opensource_licences"
+        android:title="@string/opensource_licences"
+        app:showAsAction="never" />
+
+</menu>
